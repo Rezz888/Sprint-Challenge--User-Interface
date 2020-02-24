@@ -212,4 +212,29 @@ footer nav a {
 .box2-4 {
     display: flex;
 }
+
+.line {
+  
+    margin-top: 20px;
+    width: 100%;
+    border: 1px dotted black;
+    margin-bottom: 20px;
+   }
+.line-box {
+    width: 95%;
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 15px 0;
+}
+
+.lastSection {
+    margin: 25px 0;
+}
+
+.boxTitle {
+    margin: 15px 0;
+}
  
